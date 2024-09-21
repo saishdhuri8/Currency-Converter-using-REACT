@@ -1,3 +1,4 @@
+//MADE USING CHAGTGPT
 export const countryList = [
   { country: "United Arab Emirates", code2: "AE", code3: "AED" },
   { country: "Afghanistan", code2: "AF", code3: "AFN" },
